@@ -1,7 +1,36 @@
-<h1 align="center">Fala, eu sou o Doug 👋</h1>
+# 👋 Fala, eu sou o Douglas Pompermayer
 
-- 🔭 Hoje trabalho com **Python, Docker, IA & automação**  
-- 🌱 Estudando redes neurais & _LLMs_  
-- 💬 Pergunte-me sobre **Protheus, Flask, FastAPI, Looker**  
-- 👾 Site estilo retrô? 👉 [https://zeronauta.pages.dev](https://zeronauta.pages.dev)
+Desenvolvedor apaixonado por **tecnologia, ciência e boas histórias**.  
+Atuo com **Python, automação, redes e sistemas inteligentes**, e sempre tô explorando algo novo — IA, blockchain, dados, você escolhe.
+
+---
+
+## 🚀 Tecnologias & Interesses
+
+- 🐍 Python (FastAPI, Flask, Pandas)
+- 🐧 Linux, Shell Script, Docker, Traefik
+- 🧠 Inteligência Artificial, GPT, Redes Neurais
+- 📊 Dashboards com Looker Studio e Google Sheets
+- 🧩 SQL, Protheus TOTVS, APIs REST
+
+---
+
+## 💡 Em que posso ajudar?
+
+- Automatização de tarefas e integração de sistemas  
+- Bots inteligentes no WhatsApp  
+- Scripts para análise de dados e geração de relatórios  
+- Infraestrutura leve e escalável com containers  
+- E claro... montar projetos insanos com IA 🤖
+
+---
+
+## 🌐 Onde me encontrar?
+
+- [Zeronauta](https://zeronauta.pages.dev)
+
+---
+
+> _“Dividir para conquistar.”_ – Zeronauta ⚡
+
   
