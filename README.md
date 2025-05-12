@@ -8,8 +8,4 @@
 - 🌱 Estudando redes neurais & _LLMs_  
 - 💬 Pergunte-me sobre **Protheus, Flask, FastAPI, Looker**  
 - 👾 Site estilo retrô? 👉 [douglaspompermayer.github.io](https://douglaspompermayer.github.io)
-
-<div align="center">
-  <!-- Shields, contadores, GitHub-stats, etc. -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DougPomp&show_icons=true" />
-</div>
+  
