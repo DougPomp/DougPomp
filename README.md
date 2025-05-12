@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Fala, eu sou o Doug 👋</h1>
 
-<!--
-**DougPomp/DougPomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DougPomp/DougPomp/main/banner.png" width="80%" />
+</p>
 
-Here are some ideas to get you started:
+- 🔭 Hoje trabalho com **Python, Docker, IA & automação**  
+- 🌱 Estudando redes neurais & _LLMs_  
+- 💬 Pergunte-me sobre **Protheus, Flask, FastAPI, Looker**  
+- 👾 Site estilo retrô? 👉 [douglaspompermayer.github.io](https://douglaspompermayer.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <!-- Shields, contadores, GitHub-stats, etc. -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DougPomp&show_icons=true" />
+</div>
