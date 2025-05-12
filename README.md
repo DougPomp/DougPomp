@@ -3,5 +3,5 @@
 - 🔭 Hoje trabalho com **Python, Docker, IA & automação**  
 - 🌱 Estudando redes neurais & _LLMs_  
 - 💬 Pergunte-me sobre **Protheus, Flask, FastAPI, Looker**  
-- 👾 Site estilo retrô? 👉 [douglaspompermayer.github.io](https://douglaspompermayer.github.io)
+- 👾 Site estilo retrô? 👉 [https://zeronauta.pages.dev](https://zeronauta.pages.dev)
   
